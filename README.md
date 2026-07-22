@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/amriteshdas/leetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/amriteshdas/leetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amriteshdas/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/amriteshdas/leetCode/tree/master/0189-rotate-array) |
 ## Trie
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amriteshdas/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amriteshdas/leetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/amriteshdas/leetCode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/amriteshdas/leetCode/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amriteshdas/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/amriteshdas/leetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
