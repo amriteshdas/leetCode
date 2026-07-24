@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/amriteshdas/leetCode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/amriteshdas/leetCode/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/amriteshdas/leetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/amriteshdas/leetCode/tree/master/0242-valid-anagram) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/amriteshdas/leetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Greedy
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/amriteshdas/leetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/amriteshdas/leetCode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/amriteshdas/leetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/amriteshdas/leetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/amriteshdas/leetCode/tree/master/0242-valid-anagram) |
 | [3866-first-unique-even-element](https://github.com/amriteshdas/leetCode/tree/master/3866-first-unique-even-element) |
