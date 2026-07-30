@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/amriteshdas/leetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/amriteshdas/leetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/amriteshdas/leetCode/tree/master/0392-is-subsequence) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/amriteshdas/leetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/amriteshdas/leetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/amriteshdas/leetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/amriteshdas/leetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/amriteshdas/leetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/amriteshdas/leetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
 |  |
 | ------- |
