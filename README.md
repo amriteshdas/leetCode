@@ -13,10 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/amriteshdas/leetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/amriteshdas/leetCode/tree/master/0392-is-subsequence) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/amriteshdas/leetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/amriteshdas/leetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
 |  |
 | ------- |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/amriteshdas/leetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/amriteshdas/leetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/amriteshdas/leetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/amriteshdas/leetCode/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amriteshdas/leetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/amriteshdas/leetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Divide and Conquer
 |  |
 | ------- |
