@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/amriteshdas/leetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/amriteshdas/leetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/amriteshdas/leetCode/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/amriteshdas/leetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/amriteshdas/leetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/amriteshdas/leetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/amriteshdas/leetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/amriteshdas/leetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/amriteshdas/leetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/amriteshdas/leetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0424-longest-repeating-character-replacement](https://github.com/amriteshdas/leetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amriteshdas/leetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3866-first-unique-even-element](https://github.com/amriteshdas/leetCode/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amriteshdas/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/amriteshdas/leetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/amriteshdas/leetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/amriteshdas/leetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/amriteshdas/leetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/amriteshdas/leetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
