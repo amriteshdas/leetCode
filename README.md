@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/amriteshdas/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amriteshdas/leetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/amriteshdas/leetCode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/amriteshdas/leetCode/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amriteshdas/leetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/amriteshdas/leetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/amriteshdas/leetCode/tree/master/0682-baseball-game) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/amriteshdas/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/amriteshdas/leetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amriteshdas/leetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/amriteshdas/leetCode/tree/master/0496-next-greater-element-i) |
 | [3866-first-unique-even-element](https://github.com/amriteshdas/leetCode/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
 |  |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/amriteshdas/leetCode/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/amriteshdas/leetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/amriteshdas/leetCode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/amriteshdas/leetCode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/amriteshdas/leetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -183,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/amriteshdas/leetCode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/amriteshdas/leetCode/tree/master/0844-backspace-string-compare) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/amriteshdas/leetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
