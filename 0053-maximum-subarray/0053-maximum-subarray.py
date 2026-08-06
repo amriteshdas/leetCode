@@ -1,6 +1,6 @@
 class Solution(object):
     def maxSubArray(self, nums):
-        msum = nums[0]
+        msum= -99999999999999999
         total = 0
         for i in range(len(nums)):
             total =total+nums[i]
