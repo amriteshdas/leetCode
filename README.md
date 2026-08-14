@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/amriteshdas/leetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/amriteshdas/leetCode/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/amriteshdas/leetCode/tree/master/0561-array-partition) |
+| [0566-reshape-the-matrix](https://github.com/amriteshdas/leetCode/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amriteshdas/leetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/amriteshdas/leetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/amriteshdas/leetCode/tree/master/0682-baseball-game) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/amriteshdas/leetCode/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/amriteshdas/leetCode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/amriteshdas/leetCode/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
@@ -210,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/amriteshdas/leetCode/tree/master/0561-array-partition) |
+## Matrix
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/amriteshdas/leetCode/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
