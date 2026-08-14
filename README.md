@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/amriteshdas/leetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/amriteshdas/leetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/amriteshdas/leetCode/tree/master/0217-contains-duplicate) |
+| [0228-summary-ranges](https://github.com/amriteshdas/leetCode/tree/master/0228-summary-ranges) |
 | [0349-intersection-of-two-arrays](https://github.com/amriteshdas/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amriteshdas/leetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/amriteshdas/leetCode/tree/master/0485-max-consecutive-ones) |
