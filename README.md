@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/amriteshdas/leetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/amriteshdas/leetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/amriteshdas/leetCode/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/amriteshdas/leetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/amriteshdas/leetCode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/amriteshdas/leetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/amriteshdas/leetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/amriteshdas/leetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/amriteshdas/leetCode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/amriteshdas/leetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Stack
 |  |
