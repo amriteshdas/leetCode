@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/amriteshdas/leetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/amriteshdas/leetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/amriteshdas/leetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/amriteshdas/leetCode/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/amriteshdas/leetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/amriteshdas/leetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amriteshdas/leetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/amriteshdas/leetCode/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/amriteshdas/leetCode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/amriteshdas/leetCode/tree/master/0844-backspace-string-compare) |
+| [0867-transpose-matrix](https://github.com/amriteshdas/leetCode/tree/master/0867-transpose-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -223,4 +225,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/amriteshdas/leetCode/tree/master/0566-reshape-the-matrix) |
+| [0867-transpose-matrix](https://github.com/amriteshdas/leetCode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
