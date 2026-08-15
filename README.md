@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/amriteshdas/leetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/amriteshdas/leetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/amriteshdas/leetCode/tree/master/0867-transpose-matrix) |
+| [0905-sort-array-by-parity](https://github.com/amriteshdas/leetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/amriteshdas/leetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/amriteshdas/leetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amriteshdas/leetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/amriteshdas/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/amriteshdas/leetCode/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/amriteshdas/leetCode/tree/master/0844-backspace-string-compare) |
+| [0905-sort-array-by-parity](https://github.com/amriteshdas/leetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/amriteshdas/leetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/amriteshdas/leetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amriteshdas/leetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/amriteshdas/leetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0905-sort-array-by-parity](https://github.com/amriteshdas/leetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/amriteshdas/leetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amriteshdas/leetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Dynamic Programming
