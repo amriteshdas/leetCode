@@ -3,7 +3,7 @@ class Solution(object):
         el=[]
         ol=[]
         for i in range(len(nums)):
-            if nums[i]%2==0:
+            if nums[i]&1==0:
                 el.append(nums[i])
             else:
                 ol.append(nums[i])
