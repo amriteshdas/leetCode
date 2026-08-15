@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/amriteshdas/leetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/amriteshdas/leetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/amriteshdas/leetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1089-duplicate-zeros](https://github.com/amriteshdas/leetCode/tree/master/1089-duplicate-zeros) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amriteshdas/leetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3866-first-unique-even-element](https://github.com/amriteshdas/leetCode/tree/master/3866-first-unique-even-element) |
 ## Trie
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/amriteshdas/leetCode/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/amriteshdas/leetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/amriteshdas/leetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/amriteshdas/leetCode/tree/master/1089-duplicate-zeros) |
 ## Sorting
 |  |
 | ------- |
