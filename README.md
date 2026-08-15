@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/amriteshdas/leetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amriteshdas/leetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/amriteshdas/leetCode/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/amriteshdas/leetCode/tree/master/1480-running-sum-of-1d-array) |
 | [3866-first-unique-even-element](https://github.com/amriteshdas/leetCode/tree/master/3866-first-unique-even-element) |
 ## Trie
 |  |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/amriteshdas/leetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/amriteshdas/leetCode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/amriteshdas/leetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/amriteshdas/leetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Stack
 |  |
 | ------- |
