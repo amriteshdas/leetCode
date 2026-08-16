@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/amriteshdas/leetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/amriteshdas/leetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/amriteshdas/leetCode/tree/master/1732-find-the-highest-altitude) |
+| [1920-build-array-from-permutation](https://github.com/amriteshdas/leetCode/tree/master/1920-build-array-from-permutation) |
 | [3866-first-unique-even-element](https://github.com/amriteshdas/leetCode/tree/master/3866-first-unique-even-element) |
 ## Trie
 |  |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/amriteshdas/leetCode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/amriteshdas/leetCode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/amriteshdas/leetCode/tree/master/0867-transpose-matrix) |
+| [1920-build-array-from-permutation](https://github.com/amriteshdas/leetCode/tree/master/1920-build-array-from-permutation) |
 ## Monotonic Stack
 |  |
 | ------- |
