@@ -1,9 +1,9 @@
 class Solution(object):
     def findTheDifference(self, s, t):
         s = list(s)
-        for i in range(len(t)):
-            if t[i] in s:
-                s[s.index(t[i])]=0
+
+        for ch in t:
+            if ch in s:
+                s[s.index(ch)] = 0
             else:
-                return t[i]
-        
+                return ch
