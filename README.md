@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/amriteshdas/leetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/amriteshdas/leetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/amriteshdas/leetCode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/amriteshdas/leetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/amriteshdas/leetCode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/amriteshdas/leetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/amriteshdas/leetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/amriteshdas/leetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/amriteshdas/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/amriteshdas/leetCode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/amriteshdas/leetCode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/amriteshdas/leetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amriteshdas/leetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/amriteshdas/leetCode/tree/master/0496-next-greater-element-i) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/amriteshdas/leetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/amriteshdas/leetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/amriteshdas/leetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/amriteshdas/leetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/amriteshdas/leetCode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/amriteshdas/leetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amriteshdas/leetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -273,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amriteshdas/leetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/amriteshdas/leetCode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
