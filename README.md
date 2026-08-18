@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/amriteshdas/leetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/amriteshdas/leetCode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/amriteshdas/leetCode/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/amriteshdas/leetCode/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/amriteshdas/leetCode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/amriteshdas/leetCode/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/amriteshdas/leetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/amriteshdas/leetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amriteshdas/leetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/amriteshdas/leetCode/tree/master/0496-next-greater-element-i) |
+| [0771-jewels-and-stones](https://github.com/amriteshdas/leetCode/tree/master/0771-jewels-and-stones) |
 | [3866-first-unique-even-element](https://github.com/amriteshdas/leetCode/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
 |  |
